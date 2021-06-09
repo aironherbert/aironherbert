@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aironherbert
-- 👀 I’m interested in programming
+- 👀 I’m interested in any programming language
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me https://www.linkedin.com/in/airon-herbert/
