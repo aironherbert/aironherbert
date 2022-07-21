@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @aironherbert
-- 👀 I’m interested in any programming language
-- 🌱 I’m currently working with React and Elixir
-- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me https://www.linkedin.com/in/airon-herbert/
